@@ -26,7 +26,7 @@ Projeto simples de conversão de moedas, desenvolvido com o objetivo de praticar
 
 1. Clone este repositório:
   ```
-  git clone https://github.com/seu-usuario/conversor-moeda.git
+  git clone https://github.com/DavydKaio/project-convert.git
   ```
 2. Acesse a pasta do projeto:
   ```
