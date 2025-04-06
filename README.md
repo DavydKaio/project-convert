@@ -12,7 +12,7 @@ Projeto simples de conversão de moedas, desenvolvido com o objetivo de praticar
 
 ## 🔧 Funcionalidades
 
-- Conversão de valores entre moedas (ex: Real, Dólar, Euro)
+- Conversão de valores entre moedas, dólar americano, euro e libra esterlina para real
 - Interface interativa com campos de entrada e seleção de moeda
 - Atualização dinâmica dos valores convertidos
 
@@ -32,6 +32,7 @@ Projeto simples de conversão de moedas, desenvolvido com o objetivo de praticar
   ```
   cd project-convert
   ```
+3. Abra o arquivo `index.html` no seu navegador favorito
 
 ## 🎯 Objetivo
 
